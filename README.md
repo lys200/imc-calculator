@@ -23,4 +23,4 @@ Une application Android moderne pour calculer votre Indice de Masse Corporelle (
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/imc-calculator.git
+git clone [https://github.com/lys200/imc-calculator.git]
